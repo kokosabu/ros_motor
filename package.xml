@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>ros_motor</name>
+  <version>0.1.0</version>
+  <description>ros answers</description>
+
+  <maintainer email="kokosabu@gmail.com">MIURA Yasuyuki</maintainer>
+  <license>BSD</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <depend>can_msgs</depend>
+  <depend>roscpp</depend>
+  <depend>socketcan_interface</depend>
+  <depend>std_msgs</depend>
+
+</package>
